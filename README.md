@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, imsyahrul from Indonesian ,im Frontend Developer.</h1>
+<h1 align="center">Hi👋, Im Syahrul from Indonesian, im Frontend Developer.</h1>
 
 ###
 
